@@ -45,10 +45,10 @@ function ContactSection() {
       >
         <div>
           <span className="eyebrow">Contact Me</span>
-          <h2>Ready to build reliable Java backend systems.</h2>
+          <h2>Available for Java Developer fresher opportunities.</h2>
           <p>
-            Reach out for Java Backend Developer roles, internships, project
-            discussions, or collaboration.
+            Reach out for Java Developer fresher roles, backend opportunities,
+            project discussions, or collaboration.
           </p>
           <div className="contact-links">
             {contactLinks.map((link) => {

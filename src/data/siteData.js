@@ -25,9 +25,10 @@ export const owner = {
   github: 'https://github.com/Rajeev001-ai',
   linkedin: 'https://linkedin.com/in/rajeev',
   intro:
-    'Computer Science graduate passionate about building scalable backend applications using Java, Spring Boot, and MySQL.',
+    'Computer Science graduate actively seeking Java Developer fresher roles, passionate about building scalable backend applications using Java, Spring Boot, and MySQL.',
   about:
-    'I am Rajeev Patel, a Computer Science graduate with strong interest in backend development. I have hands-on experience developing RESTful APIs and scalable applications using Java, Spring Boot, Spring Security, Hibernate, and MySQL.',
+    'I am Rajeev Patel, a Computer Science graduate seeking a Java Developer fresher role. I have hands-on experience developing RESTful APIs and scalable applications using Java, Spring Boot, Spring Security, Hibernate, and MySQL. I am ready to contribute to real-world backend products while continuing to grow as a software engineer.',
+  availability: 'Open to Java Developer fresher roles',
 }
 
 export const navItems = [
@@ -62,6 +63,7 @@ export const quickStats = [
 
 export const infoCards = [
   { label: 'Degree', value: 'B.Tech Computer Science' },
+  { label: 'Seeking', value: 'Java Developer Fresher Role' },
   { label: 'Location', value: 'Jabalpur, MP' },
   { label: 'Email', value: 'rajeevpatel2025@gmail.com' },
   { label: 'Experience', value: '3 Month Java Internship' },

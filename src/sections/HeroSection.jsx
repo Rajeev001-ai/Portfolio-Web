@@ -12,7 +12,7 @@ function HeroSection() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.75, ease: 'easeOut' }}
       >
-        <span className="eyebrow">Backend systems / Java ecosystem</span>
+        <span className="eyebrow">{owner.availability}</span>
         <h1>
           Hi, I'm <strong>{owner.name}</strong>
         </h1>

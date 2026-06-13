@@ -25,7 +25,7 @@ function AboutSection() {
       >
         <div className="section-heading">
           <span>About Me</span>
-          <h2>Building backend logic that is clean, secure, and scalable</h2>
+          <h2>Java developer fresher focused on clean backend engineering</h2>
         </div>
         <p>{owner.about}</p>
         <div className="info-grid">
