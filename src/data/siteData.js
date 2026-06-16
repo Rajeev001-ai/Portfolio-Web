@@ -57,7 +57,7 @@ export const floatingTech = [
 export const quickStats = [
   { value: 200, suffix: '+', label: 'DSA Problems Solved' },
   { value: 3, suffix: ' Months', label: 'Internship' },
-  { value: 4, suffix: '+', label: 'Major Projects' },
+  { value: 5, suffix: '+', label: 'Major Projects' },
   { value: 8.26, suffix: '', label: 'CGPA', decimals: 2 },
 ]
 
@@ -97,7 +97,7 @@ export const projects = [
       'Contact management system with authentication, email verification, profile management, contact search, pagination, and secure access control.',
     tech: ['Java', 'Spring Boot', 'Spring Security', 'Hibernate', 'MySQL', 'Thymeleaf'],
     github: 'https://github.com/Rajeev001-ai/smart-contact-manager.git',
-    demo: '#',
+    demo: 'https://smart-contact-manager-2qr1.onrender.com',
   },
   {
     title: 'AllHelp',
@@ -117,12 +117,29 @@ export const projects = [
     demo: 'https://all-help.vercel.app/',
   },
   {
+    title: 'ResumeRadar',
+    description:
+      'Resume analysis platform that reviews resumes against a job description and provides targeted suggestions to improve match quality.',
+    tech: ['Java', 'Spring Boot', 'React', 'JavaScript', 'REST API'],
+    githubLinks: [
+      {
+        label: 'Backend',
+        href: 'https://github.com/Rajeev001-ai/ReseumeRadar-backend.git',
+      },
+      {
+        label: 'Frontend',
+        href: 'https://github.com/Rajeev001-ai/ReseumeRadar-frontend.git',
+      },
+    ],
+    demo: 'https://resume-radar-frontend.vercel.app/',
+  },
+  {
     title: 'E-Commerce Website',
     description:
       'Online shopping platform with product management, cart workflow, user authentication, order handling, and database-backed admin operations.',
     tech: ['Java', 'Spring Boot', 'Spring Security', 'Hibernate', 'MySQL'],
     github: 'https://github.com/Rajeev001-ai/E-commerce-Web.git',
-    demo: '#',
+    demo: 'https://e-commerce-web-sq25.onrender.com',
   },
   {
     title: 'PG Management System',
@@ -130,7 +147,7 @@ export const projects = [
       'PG management platform with tenant onboarding, room allocation, payment tracking, and administrative dashboard.',
     tech: ['Spring Boot', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/Rajeev001-ai/Pg-Management.git',
-    demo: '#',
+    demo: 'https://pg-management-d33r.onrender.com',
   },
 ]
 
