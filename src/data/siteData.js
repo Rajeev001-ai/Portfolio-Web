@@ -142,9 +142,9 @@ export const projects = [
     demo: 'https://e-commerce-web-sq25.onrender.com',
   },
   {
-    title: 'PG Management System',
+    title: 'StayNext',
     description:
-      'PG management platform with tenant onboarding, room allocation, payment tracking, and administrative dashboard.',
+      'PG discovery and management platform where users can find rooms and owners can manage their PG listings, tenants, rooms, and operations.',
     tech: ['Spring Boot', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
     github: 'https://github.com/Rajeev001-ai/Pg-Management.git',
     demo: 'https://pg-management-d33r.onrender.com',
